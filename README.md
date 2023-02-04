@@ -2,10 +2,14 @@
 Html-Css-Bootstrap-Php ile yapılmış e-ticaret sitesi.
 Kodlar için ulaşabilirsiniz -> cemtekingss@gmail.com
 
-#Ana Sayfa
+Ana Sayfa
+
+
 ![1](https://github.com/cemtekinn/phpeticaretwebsite/blob/main/AnaSayfa.jpg)
 
 
-#Ürünleri Listeleme
+Ürünleri Listeleme
+
+
 ![2](https://github.com/cemtekinn/phpeticaretwebsite/blob/main/Kategoriler.jpg)
 
